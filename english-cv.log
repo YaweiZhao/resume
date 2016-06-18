@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.10)  16 JUN 2016 23:41
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.10)  17 JUN 2016 11:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**cv.tex
-(./cv.tex
+**english-cv.tex
+(./english-cv.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -713,8 +713,8 @@ Grid set 16 x 16 = 37.34424pt x 52.81541pt
 TextBlockOrigin set to 0pt x 0pt
 )
 TextBlockOrigin set to 2mm x 0.65\paperheight 
-No file cv.aux.
-\openout1 = `cv.aux'.
+(./english-cv.aux)
+\openout1 = `english-cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
@@ -732,7 +732,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 50.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 50.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 50.
@@ -805,7 +805,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 50.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -853,14 +852,12 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 50.
 LaTeX Info: Redefining \pageref on input line 50.
 LaTeX Info: Redefining \nameref on input line 50.
+
+(./english-cv.out) (./english-cv.out)
 \@outlinefile=\write3
-\openout3 = `cv.out'.
+\openout3 = `english-cv.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
@@ -869,24 +866,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 78.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
 
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
- (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 116.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+ (./english-cv.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 120.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
- 22047 strings out of 493706
- 406349 string characters out of 6145769
- 455751 words of memory out of 5000000
- 25244 multiletter control sequences out of 15000+600000
- 4176 words of font info for 37 fonts, out of 8000000 for 9000
+ 22056 strings out of 493706
+ 406575 string characters out of 6145769
+ 457874 words of memory out of 5000000
+ 25246 multiletter control sequences out of 15000+600000
+ 4184 words of font info for 38 fonts, out of 8000000 for 9000
  1329 hyphenation exceptions out of 8191
- 46i,7n,58p,10426b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,7n,58p,10434b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.pdf (1 page).
+Output written on english-cv.pdf (1 page).
